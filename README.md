@@ -4,7 +4,11 @@
 
 **FP SELLECTION** é um site moderno e visualmente impactante voltado para a venda de carros de luxo. Com um layout responsivo, animações elegantes e uma navegação simples, o projeto foi criado com o objetivo de oferecer uma vitrine online atrativa e funcional para clientes exigentes.
 
+
+![image](https://github.com/user-attachments/assets/f4b0849a-d8cf-46f2-accb-df83a764f97c)
 ![image](https://github.com/user-attachments/assets/0ae8f1df-2cc3-43f9-a32b-92e214e635fe)
+![image](https://github.com/user-attachments/assets/d3c36a53-25e1-421f-9d10-0c4b348539f9)
+
 
 
 
