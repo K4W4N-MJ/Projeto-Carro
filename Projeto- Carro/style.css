@@ -38,6 +38,12 @@ header {
     }
 }
 
+nav ul li:hover {
+    color: #b3ff1b;
+    transition: 0.1s;
+    transform: scale(1.1);
+}
+
 section {
     background-image: radial-gradient(#7f3d9e, rgb(41, 5, 159));
     height: 100vh;
@@ -266,3 +272,4 @@ section {
 
     }
 }
+
